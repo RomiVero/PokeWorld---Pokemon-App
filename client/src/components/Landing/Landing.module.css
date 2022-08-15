@@ -1,0 +1,43 @@
+.back {
+    background-image: url('https://wallpaperaccess.com/download/classic-pokemon-3062895');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+    margin: 0px;
+    margin-top: 1px;
+    width: 100vw;
+    height: 100vh; 
+    padding: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.title {
+    background-color: rgba(60, 90, 166, 0.22);
+    color:  rgb(255, 203, 5);
+    font-size: 60px;
+    height: 20%;
+    display: flex;
+    margin-top: 0px;
+    justify-content: center;
+    align-items: center;
+}
+
+.button {
+    position:relative;
+    margin-top: 10px;
+    padding: 40px 40px;
+    border-radius: 50%;
+    border: none;
+    text-align: center;
+    font-size: 30px;
+    color:white;
+    background-color: rgb(40, 94, 165);
+    box-shadow: 2px 4px 1px #322682;
+   
+}
+
+.button:hover {
+    color: rgb(255, 203, 5);
+    cursor: pointer;
+}
